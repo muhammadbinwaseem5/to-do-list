@@ -45,4 +45,4 @@ The page is structured with a centered container holding a title, an input field
 
 **Muhammad Bin Waseem**
 - GitHub: [@muhammadbinwaseem5](https://github.com/muhammadbinwaseem5)
-- LinkedIn: [muhammad-bin-waseem](https://linkedin.com/in/muhammad-bin-waseem)
+- LinkedIn: [muhammad-bin-waseem](https://linkedin.com/in/muhammadbinwaseem5)
