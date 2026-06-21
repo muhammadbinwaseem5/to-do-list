@@ -7,7 +7,7 @@ A clean, interactive and minimalistic to-do list web application built with HTML
 
 <img width="1920" height="893" alt="Capturetodo" src="https://github.com/user-attachments/assets/98b448d5-5235-47a8-81d8-ea3ce13b93dd" />
 
-https://muhammadbinwaseem5.github.io/todo-list-app/
+https://muhammadbinwaseem5.github.io/to-do-list/
 
 
 ##  Features
